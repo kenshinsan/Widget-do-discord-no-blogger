@@ -1,5 +1,4 @@
 # Widget-do-discord-no-blogger
-Widget do discord para menu lateral do Blogger
 Esse código estiliza o widget do Discord para que ele se adapte ao menu lateral do Blogger. As propriedades CSS utilizadas incluem:
 
 - `position: relative`: define a posição do widget como relativa ao seu pai.
